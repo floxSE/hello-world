@@ -1,2 +1,2 @@
 # hello-world
-getting started, not knowing what to do
+I'm just getting started in the world of coding. I aquired some basic knowledge in html and css, with javascript still ahead of me. Ultimately, i'm going to try and find a web-developer job while working on my BSc. in CS and branch out into other domains of coding, like java, python, maybe C(+). I don't want to get ahead of myself, do this step by step and for now focus on working on my html, CSS and js skills. Figured i'm going to check out github in the process.
